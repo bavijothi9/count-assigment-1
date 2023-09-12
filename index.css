@@ -1,0 +1,18 @@
+#increment{
+    background-color:aqua;
+    font-size: 50px;
+}
+.decrement{
+    font-size: 50px;
+    background-color:aqua;
+}
+.reset{
+    background-color:aqua;
+    font-size: 50px;
+
+}
+.counter{
+    background-color: blueviolet;
+    font-size: 50px;
+
+}
